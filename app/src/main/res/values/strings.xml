@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">128_UCP2</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="notelepon">Nomer Telepon</string>
+    <string name="namabuah">Nama Buah atau Sayuran</string>
+    <string name="buah">Buah</string>
+    <string name="Sayur">Sayur</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="back">back</string>
+</resources>
